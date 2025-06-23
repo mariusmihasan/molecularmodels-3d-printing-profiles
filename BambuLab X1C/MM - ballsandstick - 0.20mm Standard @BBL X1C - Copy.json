@@ -1,0 +1,25 @@
+{
+    "bottom_shell_thickness": "1.6",
+    "brim_width": "4",
+    "detect_thin_wall": "1",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "name": "MM - ballsandstick - 0.20mm Standard @BBL X1C - Copy",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "MM - ballsandstick - 0.20mm Standard @BBL X1C - Copy",
+    "seam_position": "nearest",
+    "skeleton_infill_density": "50%",
+    "skin_infill_density": "50%",
+    "sparse_infill_density": "50%",
+    "sparse_infill_pattern": "gyroid",
+    "support_type": "normal(auto)",
+    "top_shell_thickness": "1.6",
+    "version": "2.1.0.15",
+    "wall_loops": "5"
+}
