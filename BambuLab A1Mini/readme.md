@@ -1,4 +1,4 @@
-Printer profiles for the the BambuLab A1Mini with AMS Lite, stock. Profiles provided as a single Process preset .zip file. 
+Printer profiles for the the BambuLab A1Mini with AMS Lite, stock. Profiles provided as a single Process presets .zip file. 
 Here is a guide on how to [import the profiles in Bambu Studio](https://wiki.bambulab.com/en/bambu-studio/export-filament).
 
 Profiles are based on the stock 0.2 mm STANDARD profile with the following edits:
